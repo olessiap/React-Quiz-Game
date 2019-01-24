@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    font-size:15px;
+    background:aliceblue;
+}
+
+.question-list {
+    display:flex;
+    justify-content:center;
+    margin-top:60px;
+}
+
+.answer-list {
+    display:flex;
+    justify-content:center;
+}
+
+.question-item {
+    width:290px;
+    margin-left:20px;
+    margin-bottom:10px;
+}
+
+.answer-item {
+    width:300px;
+    margin-left:10px;
+    border-radius:5px;
+}
